@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[Faisons un lien](www.google.com) 
+[Faisons un lien](http://google.com) 
 
 Essais : 
 1. Number One
