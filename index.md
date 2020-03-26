@@ -6,6 +6,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[Faisons un lien](www.google.com) 
+
+Essais : 
+1. Number One
+2. Number Two
+3. Number Three
+
+Autre liste : 
+* Mettre en italique
+* Mettre en gras
+* Faire un lien
+
+Le **gras** c'est beau. Mais c'est mieux en *italique* parce que je n'ai pas d'idées.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
