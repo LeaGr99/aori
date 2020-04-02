@@ -10,7 +10,7 @@ Je l'ai choisi parce que j'aime faire des photos.
 
 Qu'est-ce qu'un appareil photo ? : 
 * [Explication Wikipédia](https://fr.wikipedia.org/wiki/Appareil_photographique_num%C3%A9rique)
-* [Photos d'appareil photo numérique](https://www.vandenborre.be/fr/appareil-photo-digital-camera/appareil-photo-reflex)
+* [Photos d'appareils photos numériques](https://www.vandenborre.be/fr/appareil-photo-digital-camera/appareil-photo-reflex)
 
 
 ### La liseuse
