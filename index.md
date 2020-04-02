@@ -5,7 +5,7 @@ Voici les différents sujets qui m'intéressent pour faire le travail sur une te
 ### L'appareil photo numérique
 Je l'ai choisi parce que j'aime faire des photos. 
 
-![Image](images/appareilphoto.jpg)
+![Image](images/photographe.jpg)
 
 
 Qu'est-ce qu'un appareil photo ? : 
