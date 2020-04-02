@@ -21,7 +21,7 @@ Qu'est-ce qu'un appareil photo ? :
 ### La liseuse
 Je l'ai sélectionné comme potentiel sujet car j'adore lire.
 
-![Image](Liseuse.jpg
+![Image](images/Liseuse.jpg)
 
 
 
