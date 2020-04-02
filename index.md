@@ -4,7 +4,8 @@ Voici les différents sujets qui m'intéressent pour faire le travail sur une te
 
 ### La liseuse
 
-![Image d'une liseuse] (
+![Image d'une liseuse] (https://github.com/LeaGr99/aori/donut-3723751_1920.jpg)
+
 [Faisons un lien](http://ecosia.org) 
 
 Essais : 
