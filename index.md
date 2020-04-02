@@ -2,25 +2,28 @@
 
 Voici les différents sujets qui m'intéressent pour faire le travail sur une technologie.
 
+### L'appareil photo numérique
+Je l'ai choisi parce que j'aime faire des photos. 
+
+
+
+
+
+
+
+
+
+Qu'est-ce qu'un appareil photo ? : 
+* [Explication Wikipédia](https://fr.wikipedia.org/wiki/Appareil_photographique_num%C3%A9rique)
+* [Photos d'appareil photo numérique](https://www.vandenborre.be/fr/appareil-photo-digital-camera/appareil-photo-reflex)
+
+
 ### La liseuse
+Je l'ai sélectionné comme potentiel sujet car j'adore lire.
 
-![Image d'une liseuse] (https://github.com/LeaGr99/aori/donut-3723751_1920.jpg)
+![Image](Liseuse.jpg
 
-[Faisons un lien](http://ecosia.org) 
 
-Essais : 
-1. Number One
-2. Number Two
-3. Number Three
-
-Autre liste : 
-* Mettre en italique
-* Mettre en gras
-* Faire un lien
-
-Le **gras** c'est beau. Mais c'est mieux en *italique* parce que je n'ai pas d'idées.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
